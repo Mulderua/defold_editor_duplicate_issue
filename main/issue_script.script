@@ -1,0 +1,13 @@
+go.property("enabled", false)
+go.property("propery22", 2)
+go.property("propery3", vmath.vector3())
+
+function init(self)
+    print(2334)
+
+    
+
+    print(22334412312)
+end
+
+
